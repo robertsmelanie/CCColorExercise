@@ -1,0 +1,49 @@
+/* Color Name */
+h1{
+    color: slateblue;
+    background-color: red;
+}
+/* Hexadecimal */
+h2{
+    color: #0011ff;
+    background-color: orange;
+}
+/* Hexadecimal shorthand */
+h3{
+    color: #141;
+    background-color: yellow;
+}
+/* Hexadecimal with transparancy */
+h4{
+    color: #ffa50088;
+    background-color: green;
+}
+/* Hexadecimal shorthand with transparancy */
+h5{
+    color: #777A;
+    background-color: blue;
+}
+/* RGB */
+h6{
+    color: rgb(152, 148, 121);
+    background-color: indigo;
+}
+/* RGBA (transparancy) */
+p{
+    color: rgba(125, 255, 255, .7);
+    background-color: violet;
+}
+
+#pink{
+    color: hotpink;
+}
+
+#peach{
+    background-color: peachpuff;
+}
+
+.border{
+    border-style: solid ;
+    border-width: 5px;
+    border-color: green;
+}
